@@ -605,5 +605,14 @@ footer {
   }
   
   
-  /* footer social icons */
+ /* section  */
+ .sec-light{
+	 background-color: #f4f5f7;
+ }
+ .sec-size{
+	 width: 100%;
+	 height: auto;
+	 margin-top: auto;
+	 margin-bottom: auto;
+ }
   
