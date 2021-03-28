@@ -611,8 +611,9 @@ footer {
  }
  .sec-size{
 	 width: 100%;
-	 height: auto;
-	 margin-top: auto;
+	 height: 400px;
+	 flex-direction: column;
+	 margin-top: auto;margin-top
 	 margin-bottom: auto;
  }
   
